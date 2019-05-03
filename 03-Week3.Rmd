@@ -1,0 +1,20 @@
+# Visualizing Health Data {#week2}
+
+## Requirements
+
+**Chapter 3** - Designing Maps for a Health Study [@Wilpen2014]
+
+## Mapping
+
++ Choropleth mapping
++ Classification, values and color ramps
++ Point maps and Scatter-plots 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QcUjA2fA0ds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Layouts
+
++ Importing layers
++ Creating layouts
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bLQ4OvLxIqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

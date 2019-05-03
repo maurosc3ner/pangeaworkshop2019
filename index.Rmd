@@ -1,0 +1,58 @@
+--- 
+title: "6031 GIS & Public Health"
+bibliography: book.bib
+date: "Summer 2019"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+documentclass: book
+link-citations: yes
+description: 6031 GIS & Public Health
+site: bookdown::bookdown_site
+biblio-style: apalike
+---
+
+```{r,echo=FALSE}
+library(knitr)
+library(dplyr)
+library(kableExtra)
+```
+
+# Syllabus {-}
+
+## Contact information {-}
+
+```{r echo=FALSE, results='asis', warning=FALSE,out.width='100%'}
+
+prof <- data.frame(Instructor = '![](https://scholar.google.com/citations?view_op=view_photo&user=zMoJ8n4AAAAJ&citpid=7)',Info="Dr. Diego F. Cuadros. Assistant Professor of Health Geography and Disease Modeling, University of Cincinnati. **Office:** 401 C Braunstein Hall, Main Campus. **Email:** diego.cuadros@uc.edu")
+
+# kable(, caption = "Book",col.names = "")
+kable(prof) %>%
+  kable_styling(full_width = F,position = "left") %>%
+  column_spec(1, bold = T, border_right = T) %>%
+  column_spec(2, width = "30em")
+```
+
+
+## Content {-}
+
+The goal of this course is to exemplify the role of ArcGIS in analysis of spatial data in public health applications. At the beginning, we will review the fundamentals of the use of ArcMap interface, basic file structures and operations. Then, we will explore the capabilities of manipulating information in ArcGIS, and finally the use of ArcGIS in real world scenarios.
+
+* Format of the Lab sessions:
+    + This is a class about the use of ArcGIS in health related problems
+    + Subtitled videos (**No audio**) with detailed explanation about the topics.
+
+* Lab sessions tutorials and materials can be found on 
+https://github.com/maurosc3ner/6031gis_publichealth.
+
+## Textbook {-}
+
+```{r echo=FALSE, results='asis', warning=FALSE,fig.width=2}
+schedule <- data.frame(Book = '![](./bookCover.png)',Name="GIS Tutorial for Health: Fifth Edition [@Wilpen2014]")
+# kable(schedule, caption = "")
+kable(schedule) %>%
+  kable_styling(full_width = F,position = "left") %>%
+  column_spec(1, bold = T, border_right = T) %>%
+  column_spec(2, width = "30em")
+```

@@ -1,0 +1,77 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+# ArcGIS Basics {#week1}
+
+## Requirements
+
+**Chapter 1** - Introducing GIS and health applications [@Wilpen2014]
+
+## Setup
+
+* In this course, we run ArcMap on Windows for demonstration purposes.
+
+**A. Before you install ArcGIS for Desktop**
+
+1. Check first [http://desktop.arcgis.com/en/arcmap/10.3/get-started/system-requirements/arcgis-desktop-system-requirements.htm](system requirements) to make sure your computer has the hardware and software required for the trial.
+
+2. Request your *EVA* code to your advisor
+
+**B. Activate your authorization code**
+
+3. Visit [ESRI](https://www.esri.com/educationedition) to begin the process of activating and downloading your ArcGIS for Desktop Student Trial software.
+
+4. Log in using your Existing Esri account, or sign-up for a new Esri account, if necessary.
+
+5. Enter the authorization code and click Activate ArcGIS.
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics('./install1.PNG')
+```
+
+5. Click the button for the ArcGIS for Desktop software version being downloaded.
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics('./install2.PNG')
+```
+
+**C. Download and install ArcGIS for Desktop Student Trial**
+
+6. If necessary, download the ArcGIS Uninstall Utility and uninstall previous versions of ArcGIS Desktop or Server.  The software cannot be installed on a computer that has a previous version of ArcGIS for Desktop or ArcGIS for Server installed. It's OK if the computer has ArcGIS Explorer installed.
+
+7. If necessary, install the Microsoft .NET Framework (version 3.5 Service Pack 1 or higher).
+
+If you are unsure if you have the .NetFramework installed, you can download a .net Version detector from the following site - http://www.asoft.be/prod_netver.html.
+
+8. Determine the location for the ArcGIS for Desktop software you wish to install and click the Download button.  You can also download the Tutorial Data, if desired.
+
+9. Double-click ArcGIS_**Desktop**_10.5XXXXXXX.exe (Depending on the version you selected, the file extensions may be different) to extract the installation files.
+
+10. Locate and run Setup.exe to install ArcGIS for Desktop.  The “Complete” installation is recommended.
+
+11.After the files are installed, the Authorization Wizard will open and prompt you to choose a product to authorize; select “ArcGIS Desktop Advanced (Single Use)” and click continue.
+
+12. The Authorization Wizard will prompt you for an authorization code; enter your activated code.  Follow the prompts and the software will authorize and be ready for use.  Note: leave the default option for the software extensions selected; they will be authorized automatically.
+
+
+Support for the ArcGIS Desktop Student Trial is available at [esri.com/trialhelp](esri.com/trialhelp).
+
+## ArcGIS Basics
+
++ ArcCatalog
++ Table of Content & ArcToolbox
++ Menu bar and toolbars
++ Search and help
++ Fundamentals of ArcGIS GUI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ppBX0DbAHHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Basic files and first project
+
++ File geodatabase and feature sets
++ Connecting to a local geodatabase
++ Saving your project with Relative path
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BCjGnAAIe28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
