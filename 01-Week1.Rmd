@@ -15,7 +15,7 @@ output:
 
 **A. Before you install ArcGIS for Desktop**
 
-1. Check first [http://desktop.arcgis.com/en/arcmap/10.3/get-started/system-requirements/arcgis-desktop-system-requirements.htm](system requirements) to make sure your computer has the hardware and software required for the trial.
+1. Check first [system requirements](http://desktop.arcgis.com/en/arcmap/10.3/get-started/system-requirements/arcgis-desktop-system-requirements.htm) to make sure your computer has the hardware and software required for the trial.
 
 2. Request your *EVA* code to your advisor
 
@@ -56,7 +56,7 @@ If you are unsure if you have the .NetFramework installed, you can download a .n
 12. The Authorization Wizard will prompt you for an authorization code; enter your activated code.  Follow the prompts and the software will authorize and be ready for use.  Note: leave the default option for the software extensions selected; they will be authorized automatically.
 
 
-Support for the ArcGIS Desktop Student Trial is available at [esri.com/trialhelp](esri.com/trialhelp).
+Support for the ArcGIS Desktop Student Trial is available at [esri.com/trialhelp](https://esri.com/trialhelp).
 
 ## ArcGIS Basics
 
