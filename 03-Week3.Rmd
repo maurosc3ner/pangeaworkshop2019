@@ -18,3 +18,10 @@
 + Creating layouts
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bLQ4OvLxIqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Data driven pages
+
++ A short "Select by Attributes" example
++ Data driven pages
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u3wP80rzPPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
