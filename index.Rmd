@@ -43,8 +43,7 @@ The goal of this course is to exemplify the role of ArcGIS in analysis of spatia
     + This is a class about the use of ArcGIS in health related problems
     + Subtitled videos (**No audio**) with detailed explanation about the topics.
 
-* Lab sessions tutorials and materials can be found on 
-https://github.com/maurosc3ner/6031gis_publichealth.
+* Lab sessions tutorials and materials can be found [here!!!](https://maurosc3ner.github.io/6031gis_publichealth/)
 
 ## Textbook {-}
 
