@@ -1,4 +1,4 @@
-# Visualizing Health Data {#week2}
+# Visualizing Health Data {#week3}
 
 ## Requirements
 

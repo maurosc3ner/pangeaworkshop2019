@@ -1,4 +1,4 @@
-rmd_files: ["index.Rmd", "01-Week1.Rmd", "02-Week2.Rmd","03-Week3.Rmd"]
+rmd_files: ["index.Rmd", "01-Week1.Rmd", "02-Week2.Rmd","03-Week3.Rmd","04-Week4.Rmd"]
 delete_merged_file: true
 output_dir: docs
 language:

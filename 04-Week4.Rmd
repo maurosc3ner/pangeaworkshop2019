@@ -1,0 +1,12 @@
+# Projecting, downloading, and using spatial data {#week4}
+
+## Requirements
+
+**Chapter 4** - Projecting, downloading, and using spatial data [@Wilpen2014]
+
+## Exploring map projections
+
++ Project world maps for health data analysis using different projections
++ Prepare prevalence maps
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NkYucL6OIbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
