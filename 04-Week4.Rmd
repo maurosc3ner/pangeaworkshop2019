@@ -10,3 +10,11 @@
 + Prepare prevalence maps
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NkYucL6OIbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Playing with country level data
+
++ Create your first File Geodatabase
++ Downloading international HIV/AIDS data
++ Label customization
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s9oEGYXM8k8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

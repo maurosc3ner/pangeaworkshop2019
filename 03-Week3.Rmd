@@ -1,4 +1,4 @@
-# Visualizing Health Data {#week3}
+# Designing maps for a health study {#week3}
 
 ## Requirements
 
