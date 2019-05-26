@@ -1,0 +1,20 @@
+# Geocoding tabular data {#week6}
+
+## Requirements
+
+**Chapter 6** - Geocoding tabular data [@Wilpen2014]
+
+## Polygon address matching
+
++ Create new health-care map layers using internal and local data
++ Geocode ZIP Code data
++ Spatially join and aggregate point data to create choropleth maps
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ql0yj34Lwkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Linear address matching
+
++ Batch geocode address data 
++ Interactively rematch address data to fix input errors
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpfo9vsSSA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

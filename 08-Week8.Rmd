@@ -1,0 +1,12 @@
+# Transforming data using approximate methods {#week8}
+
+## Requirements
+
+**Chapter 8** - Transforming data using approximate methods [@Wilpen2014]
+
+## Apportioning poverty data to emergency medical service zones
+
++ Use geoprocessing functions to aggregate data
++ Use indicator variables and spatial joins to apportion data
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hJUVqq_Ln4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

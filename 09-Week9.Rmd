@@ -1,0 +1,19 @@
+# Using ArcGIS Spatial Analyst for demand {#week9}
+
+## Requirements
+
+**Chapter 9** - Using ArcGIS Spatial Analyst for demand [@Wilpen2014]
+
+## Raster maps
+
++ Process raster-map layers
++ Create a hillshade raster layer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DtLpYfCDM7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Kernel-density maps
+
++ Make a kernel-density map
++ Extract raster-value points
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tz03YZ2nAS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

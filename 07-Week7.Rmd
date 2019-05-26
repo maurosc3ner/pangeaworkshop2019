@@ -1,0 +1,13 @@
+# Processing and analyzing spatial data {#week7}
+
+## Requirements
+
+**Chapter 7** - Processing and analyzing spatial data [@Wilpen2014]
+
+## Polygon address matching
+
++ Dissolve polygons to create neighborhood population counts
++ Use spatial joins to aggregate data
++ Create buffers to conduct proximity analysis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hJUVqq_Ln4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

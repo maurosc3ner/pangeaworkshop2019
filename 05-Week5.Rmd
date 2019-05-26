@@ -1,0 +1,25 @@
+# Using census bureau spatial and tabular data {#week5}
+
+## Requirements
+
+**Chapter 5** - Downloading and preparing spatial and tabular data [@Wilpen2014]
+
+## Preparing census bureau spatial and tabular data
+
++ Download US Census Bureau TIGER/Line map files
++ Identify and download data from US Census Bureau data tables
++ Prepare census tables for use in mapping
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PpX-KfgvqM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Building a lead study comparison map
+
++ Joining housing and elevated blood case tables to a census tract map
++ Showing elevated blood lead levels by tract part 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2AFkxdvkHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
++ Joining housing and elevated blood case tables to a census tract map
++ Showing elevated blood lead levels by tract part 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pXgZKlMx0Y4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
