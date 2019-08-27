@@ -1,14 +1,14 @@
 --- 
-title: "6031 GIS & Public Health"
+title: "5131 GIS & Public Health"
 bibliography: book.bib
-date: "Summer 2019"
+date: "Fall 2019"
 output:
   html_document:
     df_print: paged
   pdf_document: default
 documentclass: book
 link-citations: yes
-description: 6031 GIS & Public Health
+description: 5131 GIS & Public Health
 site: bookdown::bookdown_site
 biblio-style: apalike
 ---
