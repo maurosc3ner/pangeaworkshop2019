@@ -5,21 +5,21 @@
 
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Chapter 1 ArcGIS Basics | PANGEA WORKSHOP</title>
-  <meta name="description" content="Chapter 1 ArcGIS Basics | PANGEA WORKSHOP">
+  <title>Chapter 3 Designing maps for a health study | PANGEA WORKSHOP</title>
+  <meta name="description" content="Chapter 3 Designing maps for a health study | PANGEA WORKSHOP">
   <meta name="generator" content="bookdown  and GitBook 2.6.7">
 
-  <meta property="og:title" content="Chapter 1 ArcGIS Basics | PANGEA WORKSHOP" />
+  <meta property="og:title" content="Chapter 3 Designing maps for a health study | PANGEA WORKSHOP" />
   <meta property="og:type" content="book" />
   
   
-  <meta property="og:description" content="Chapter 1 ArcGIS Basics | PANGEA WORKSHOP" />
+  <meta property="og:description" content="Chapter 3 Designing maps for a health study | PANGEA WORKSHOP" />
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 1 ArcGIS Basics | PANGEA WORKSHOP" />
+  <meta name="twitter:title" content="Chapter 3 Designing maps for a health study | PANGEA WORKSHOP" />
   
-  <meta name="twitter:description" content="Chapter 1 ArcGIS Basics | PANGEA WORKSHOP" />
+  <meta name="twitter:description" content="Chapter 3 Designing maps for a health study | PANGEA WORKSHOP" />
   
 
 
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   
-<link rel="prev" href="index.html">
-<link rel="next" href="week2.html">
+<link rel="prev" href="week2.html">
+
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -106,72 +106,45 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="week1" class="section level1">
-<h1><span class="header-section-number">Chapter 1</span> ArcGIS Basics</h1>
-<div id="requirements" class="section level2">
-<h2><span class="header-section-number">1.1</span> Requirements</h2>
-<p><strong>Chapter 1</strong> - Introducing GIS and health applications <span class="citation">(Wilpen L. Gorr <a href="#ref-Wilpen2014">2014</a>)</span></p>
+<div id="week3" class="section level1">
+<h1><span class="header-section-number">Chapter 3</span> Designing maps for a health study</h1>
+<div id="requirements-2" class="section level2">
+<h2><span class="header-section-number">3.1</span> Requirements</h2>
+<p><strong>Chapter 3</strong> - Designing Maps for a Health Study <span class="citation">(Wilpen L. Gorr <a href="#ref-Wilpen2014">2014</a>)</span></p>
 </div>
-<div id="setup" class="section level2">
-<h2><span class="header-section-number">1.2</span> Setup</h2>
+<div id="mapping" class="section level2">
+<h2><span class="header-section-number">3.2</span> Mapping</h2>
 <ul>
-<li>In this course, we run ArcMap on Windows for demonstration purposes.</li>
+<li>Choropleth mapping</li>
+<li>Classification, values and color ramps</li>
+<li>Point maps and Scatter-plots</li>
 </ul>
-<p><strong>A. Before you install ArcGIS for Desktop</strong></p>
-<ol style="list-style-type: decimal">
-<li><p>Check first <a href="http://desktop.arcgis.com/en/arcmap/10.3/get-started/system-requirements/arcgis-desktop-system-requirements.htm">system requirements</a> to make sure your computer has the hardware and software required for the trial.</p></li>
-<li><p>Request your <em>EVA</em> code to your advisor</p></li>
-</ol>
-<p><strong>B. Activate your authorization code</strong></p>
-<ol start="3" style="list-style-type: decimal">
-<li><p>Visit <a href="https://www.esri.com/educationedition">ESRI</a> to begin the process of activating and downloading your ArcGIS for Desktop Student Trial software.</p></li>
-<li><p>Log in using your Existing Esri account, or sign-up for a new Esri account, if necessary.</p></li>
-<li><p>Enter the authorization code and click Activate ArcGIS.</p></li>
-</ol>
-<p><img src="install1.PNG" width="100%" /></p>
-<ol start="5" style="list-style-type: decimal">
-<li>Click the button for the ArcGIS for Desktop software version being downloaded.</li>
-</ol>
-<p><img src="install2.PNG" width="100%" /></p>
-<p><strong>C. Download and install ArcGIS for Desktop Student Trial</strong></p>
-<ol start="6" style="list-style-type: decimal">
-<li><p>If necessary, download the ArcGIS Uninstall Utility and uninstall previous versions of ArcGIS Desktop or Server. The software cannot be installed on a computer that has a previous version of ArcGIS for Desktop or ArcGIS for Server installed. It’s OK if the computer has ArcGIS Explorer installed.</p></li>
-<li><p>If necessary, install the Microsoft .NET Framework (version 3.5 Service Pack 1 or higher).</p></li>
-</ol>
-<p>If you are unsure if you have the .NetFramework installed, you can download a .net Version detector from the following site - <a href="http://www.asoft.be/prod_netver.html" class="uri">http://www.asoft.be/prod_netver.html</a>.</p>
-<ol start="8" style="list-style-type: decimal">
-<li><p>Determine the location for the ArcGIS for Desktop software you wish to install and click the Download button. You can also download the Tutorial Data, if desired.</p></li>
-<li><p>Double-click ArcGIS_<strong>Desktop</strong>_10.5XXXXXXX.exe (Depending on the version you selected, the file extensions may be different) to extract the installation files.</p></li>
-<li><p>Locate and run Setup.exe to install ArcGIS for Desktop. The “Complete” installation is recommended.</p></li>
-</ol>
-<p>11.After the files are installed, the Authorization Wizard will open and prompt you to choose a product to authorize; select “ArcGIS Desktop Advanced (Single Use)” and click continue.</p>
-<ol start="12" style="list-style-type: decimal">
-<li>The Authorization Wizard will prompt you for an authorization code; enter your activated code. Follow the prompts and the software will authorize and be ready for use. Note: leave the default option for the software extensions selected; they will be authorized automatically.</li>
-</ol>
-<p>Support for the ArcGIS Desktop Student Trial is available at <a href="https://esri.com/trialhelp">esri.com/trialhelp</a>.</p>
-</div>
-<div id="arcgis-basics" class="section level2">
-<h2><span class="header-section-number">1.3</span> ArcGIS Basics</h2>
-<ul>
-<li>ArcCatalog</li>
-<li>Table of Content &amp; ArcToolbox</li>
-<li>Menu bar and toolbars</li>
-<li>Search and help</li>
-<li>Fundamentals of ArcGIS GUI</li>
-</ul>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ppBX0DbAHHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QcUjA2fA0ds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-<div id="basic-files-and-first-project" class="section level2">
-<h2><span class="header-section-number">1.4</span> Basic files and first project</h2>
+<div id="layouts" class="section level2">
+<h2><span class="header-section-number">3.3</span> Layouts</h2>
 <ul>
-<li>File geodatabase and feature sets</li>
-<li>Connecting to a local geodatabase</li>
-<li>Saving your project with Relative path</li>
+<li>Importing layers</li>
+<li>Creating layouts</li>
 </ul>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BCjGnAAIe28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bLQ4OvLxIqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+<div id="data-driven-pages" class="section level2">
+<h2><span class="header-section-number">3.4</span> Data driven pages</h2>
+<ul>
+<li>A short “Select by Attributes” example</li>
+<li>Data driven pages</li>
+</ul>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u3wP80rzPPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
+<div id="refs" class="references">
+<div>
+<p>Wilpen L. Gorr, Kristen Seamens Kurland. 2014. <em>GIS Tutorial for Health</em>. 5th ed. Esri Press.</p>
+</div>
+</div>
 </div>
 </div>
 <h3>References</h3>
@@ -185,8 +158,8 @@
           </div>
         </div>
       </div>
-<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="week2.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="week2.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

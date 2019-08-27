@@ -1,5 +1,5 @@
 --- 
-title: "5131 GIS & Public Health"
+title: "PANGEA WORKSHOP"
 bibliography: book.bib
 date: "Fall 2019"
 output:
@@ -8,7 +8,7 @@ output:
   pdf_document: default
 documentclass: book
 link-citations: yes
-description: 5131 GIS & Public Health
+description: PANGEA WORKSHOP
 site: bookdown::bookdown_site
 biblio-style: apalike
 ---
@@ -43,15 +43,3 @@ The goal of this course is to exemplify the role of ArcGIS in analysis of spatia
     + This is a class about the use of ArcGIS in health related problems
     + Subtitled videos (**No audio**) with detailed explanation about the topics.
 
-* Lab sessions tutorials and materials can be found [here!!!](https://maurosc3ner.github.io/6031gis_publichealth/)
-
-## Textbook {-}
-
-```{r echo=FALSE, results='asis', warning=FALSE,fig.width=2}
-schedule <- data.frame(Book = '![](./bookCover.png)',Name="GIS Tutorial for Health: Fifth Edition [@Wilpen2014]")
-# kable(schedule, caption = "")
-kable(schedule) %>%
-  kable_styling(full_width = F,position = "left") %>%
-  column_spec(1, bold = T, border_right = T) %>%
-  column_spec(2, width = "30em")
-```
