@@ -17,3 +17,9 @@
 + Labeling
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/umwzXgVHVto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Chapter Material
+
+We provide the Chapter 2 of the material in the following link:
+
+[Chapter 2 - PANGEA WORKSHOP](https://drive.google.com/drive/folders/1wvQdSFzyhElC1uP9nuQj0VfqTp1j3rGg?usp=sharing)
