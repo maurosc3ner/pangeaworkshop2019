@@ -21,3 +21,9 @@
 + Data driven pages
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u3wP80rzPPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Chapter Material
+
+We provide the Chapter 3 of the material in the following link:
+
+[Chapter 3 - PANGEA WORKSHOP](https://drive.google.com/drive/folders/1b8WhQxfeVGMzPEiqvos3VDwCV6yVm9Lc?usp=sharing)
