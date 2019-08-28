@@ -5,10 +5,6 @@ output:
 ---
 # ArcGIS Basics {#week1}
 
-## Requirements
-
-**Chapter 1** - Introducing GIS and health applications [@Wilpen2014]
-
 ## Setup
 
 * In this course, we run ArcMap on Windows for demonstration purposes.

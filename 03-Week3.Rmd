@@ -1,9 +1,5 @@
 # Designing maps for a health study {#week3}
 
-## Requirements
-
-**Chapter 3** - Designing Maps for a Health Study [@Wilpen2014]
-
 ## Mapping
 
 + Choropleth mapping

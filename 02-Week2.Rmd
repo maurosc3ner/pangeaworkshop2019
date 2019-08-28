@@ -1,9 +1,5 @@
 # Visualizing Health Data {#week2}
 
-## Requirements
-
-**Chapter 2** - Visualizing Health Data [@Wilpen2014]
-
 ## Zooming & Panning
 
 + Zooming, panning and navigation toolbar
