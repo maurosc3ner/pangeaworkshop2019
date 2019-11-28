@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">PANGEA WORKSHOP</a></li>
+        <li><a href="./">Infectious Diseases Institute GIS Workshop</a></li>
       after: |
         <li><a href="mailto:correaem@mail.uc.edu" target="blank">contact</a></li>
       collapse: subsection

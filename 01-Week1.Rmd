@@ -76,4 +76,4 @@ Support for the ArcGIS Desktop Student Trial is available at [esri.com/trialhelp
 
 We provide the Chapter 1 of the material in the following link:
 
-[Chapter 1 - PANGEA WORKSHOP](https://drive.google.com/drive/folders/1MzxWyqwqheQkgVsv-m9wZxvaxnx8s0fG?usp=sharing)
+[Chapter 1](https://drive.google.com/drive/folders/1MzxWyqwqheQkgVsv-m9wZxvaxnx8s0fG?usp=sharing)

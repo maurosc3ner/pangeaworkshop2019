@@ -1,5 +1,5 @@
 --- 
-title: "PANGEA WORKSHOP"
+title: "Infectious Diseases Institute GIS Workshop"
 bibliography: book.bib
 date: "Fall 2019"
 output:
@@ -8,7 +8,7 @@ output:
   pdf_document: default
 documentclass: book
 link-citations: yes
-description: PANGEA WORKSHOP
+description: Infectious Diseases Institute GIS Workshop
 site: bookdown::bookdown_site
 biblio-style: apalike
 ---

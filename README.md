@@ -1,4 +1,4 @@
-# PANGEA WORKSHOP
+# Infectious Diseases Institute GIS Workshop
 
 The goal of this workshop is to exemplify the role of ArcGIS in analysis of spatial data in public health applications. At the beginning, we will review the fundamentals of the use of ArcMap interface, basic file structures and operations. Then, we will explore the capabilities of manipulating information in ArcGIS, and finally the use of ArcGIS in real world scenarios.
 
